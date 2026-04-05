@@ -2,7 +2,7 @@
 
 > **DISCLAIMER**: This application is used for demonstrative and illustrative purposes only and does not constitute an offering that has gone through regulatory review.
 
-This code pattern can be thought of as two distinct parts:
+ This code pattern can be thought of as two distinct parts:
 
 1. A predictive model will be built using AutoAI on IBM Cloud Pak for Data. The model is then deployed to the Watson Machine Learning service, where it can be accessed via a REST API.
 
